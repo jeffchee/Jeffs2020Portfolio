@@ -1194,6 +1194,7 @@ ul.slimmenu.collapsed li > ul {
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
   transition: transform 0.3s;
+  font-family: 'Dancing Script', cursive;
 }
 
 .cl-effect-5 a span::before {
