@@ -316,7 +316,7 @@ color:#cfa144;
 #link-work .social-top li a{
   font-family: "FontAwesome";
   display:block;
-  
+
 }
 #link-work .social-top {
   padding-top:5%;
@@ -2573,6 +2573,7 @@ ul.slimmenu.collapsed li > ul {
   overflow: hidden;
   text-align: center;
   text-align: center;
+  font-family: 'Dancing Script', cursive;
 }
 #link-work .cl-effect-5 a span {
   position: relative;
@@ -2582,6 +2583,7 @@ ul.slimmenu.collapsed li > ul {
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
   transition: transform 0.3s;
+  font-family: 'Dancing Script', cursive;
 }
 #link-work .cl-effect-5 a span::before {
   position: absolute;
@@ -2593,6 +2595,7 @@ ul.slimmenu.collapsed li > ul {
   -webkit-transform: translate3d(0, 0, 0);
   -moz-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
+  font-family: 'Dancing Script', cursive;
 }
 #link-work .cl-effect-5 a:hover span,
 #link-work .cl-effect-5 a:focus span {
