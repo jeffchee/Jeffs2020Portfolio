@@ -273,7 +273,7 @@ jQuery(document).ready(function(){
 		google.maps.event.addDomListener(window,"resize",function(){var e=n.getCenter();
 		google.maps.event.trigger(n,"resize"),n.setCenter(e)});
 		
-		var g='<div class="map-tooltip"><h6>Ananke</h6><p>Checking out our office too?</p></div>',a=new google.maps.InfoWindow({content:g})
+		var g='<div class="map-tooltip"><h6>Jeffrey Chee</h6><p>Checking out our office too?</p></div>',a=new google.maps.InfoWindow({content:g})
 		,t=new google.maps.MarkerImage("images/map-pin.png",new google.maps.Size(40,70),
 		new google.maps.Point(0,0),new google.maps.Point(20,55)),
 		i=new google.maps.LatLng(44.789511,20.43633),
