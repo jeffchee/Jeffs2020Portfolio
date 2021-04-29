@@ -3758,7 +3758,7 @@ textarea {
     height: 50px;
     left: 10px;
     top: 10px;
-    background: url("../images/logo.png") no-repeat center center;
+    /* background: url("../images/") no-repeat center center; */
     background-size: 80px 50px;
   }
   .cbp-af-header.cbp-af-header-shrink .logo {
